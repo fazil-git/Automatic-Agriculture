@@ -1,0 +1,9 @@
+Soil moist reading : V4
+Tank level reading : V5
+Trigger pin : D1
+Echo pin : D2
+Soil sensor: A0
+Automatic pump/motor control : D3
+manual pump/motor control : D4
+Automatic valve control : D5
+Manual valve control    : D6

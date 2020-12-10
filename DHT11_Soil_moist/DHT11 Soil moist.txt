@@ -1,0 +1,7 @@
+Soil moisture reading : V4
+humidity : V5
+temperature : V6
+Automatic Valve pin : D1
+manual Valve pin : D2
+DHT input pin : D4
+Soil moist : A0
